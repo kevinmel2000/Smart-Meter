@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/camera_btn_display"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/camera_title"
+        app:showAsAction="always"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/crop_tool"
+        android:title="@string/crop_title"
+        app:showAsAction="always"
+        >
+
+    </item>
+
+</menu>

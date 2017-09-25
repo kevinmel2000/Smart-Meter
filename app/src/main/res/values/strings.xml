@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Meter</string>
+    <string name="camera_title">Camera</string>
+    <string name="crop_title">Crop Tool</string>
+    <string name="picture">FOTO</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+</resources>
