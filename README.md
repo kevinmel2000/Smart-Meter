@@ -5,19 +5,19 @@ There is two external libraries used in this Project : "tess-two" for OCR and "O
 
 There is two methods implemented in this application the first one is :
 
-  -Using a custom Camera with a drawn box on the canvas that covers the surface of the meter. 
+     -Using a custom Camera with a drawn box on the canvas that covers the surface of the meter. 
   
-  -Place the box over the meter and take a picture to crop automatically the wanted part and detect the numbers
+     -Place the box over the meter and take a picture to crop automatically the wanted part and detect the numbers
   
-  -Result is not accurate. The quality of the croped image needs to be optimised.
+     -Result is not accurate. The quality of the croped image needs to be optimised.
 
 The second method is : 
 
-  -Take a picture with the default camera.
+     -Take a picture with the default camera.
   
-  -Crop manually the picture to start the Image Processing and the OCR automatically in the background.
+     -Crop manually the picture to start the Image Processing and the OCR automatically in the background.
   
-  -Result is accurate.
+     -Result is accurate.
   
   
 ### Screenshots -- Test Object used is a kitchen scale which have the same display as an electricity meter :
